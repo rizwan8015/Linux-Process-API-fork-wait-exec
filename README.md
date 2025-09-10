@@ -23,8 +23,8 @@ Test the C Program for the desired output.
 
 # PROGRAM:
  PROGRAM:
- Developed by :MANIKANDAN M
- Register Number : 212224040183
+ Developed by :Rizwan B
+ Register Number : 212224100051
  # C Program to print process ID and parent Process ID using Linux API system callS
  ~~~
  #include <stdio.h>
